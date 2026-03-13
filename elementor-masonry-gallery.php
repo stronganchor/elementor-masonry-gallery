@@ -2,7 +2,7 @@
 /**
  * Plugin Name: Elementor Masonry Gallery Extension
  * Description: Adds a “Grid / Masonry” switch to the Basic Gallery widget, with a configurable column count.
- * Version:     1.2
+ * Version:     1.2.1
  * Update URI: https://github.com/stronganchor/elementor-masonry-gallery
  * Author:      Strong Anchor Tech
  * License:     GPL-2.0+
